@@ -1,0 +1,12 @@
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+    text-align: center;
+}
+
+img {
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+}
+
