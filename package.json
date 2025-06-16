@@ -1,0 +1,32 @@
+{
+  "name": "node_04",
+  "version": "1.0.0",
+  "description": "Primera aplicación con Express",
+  "main": "app.js",
+  "type":"commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" : "node --watch src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/classesdeferran/express_1_2025a.git"
+  },
+  "keywords": [
+    "Servidor",
+    "Express",
+    "Node"
+  ],
+  "author": "Ferran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/classesdeferran/express_1_2025a/issues"
+  },
+  "homepage": "https://github.com/classesdeferran/express_1_2025a#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "morgan": "^1.10.0"
+  }
+}
